@@ -14,7 +14,7 @@ The following modules are used in this project:
 - Speed and distance calculation per player
 
 ## Trained Models
-- [Trained Yolo v8](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
+- [Trained Yolo v8]
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
