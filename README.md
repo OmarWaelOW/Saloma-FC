@@ -14,7 +14,7 @@ The following modules are used in this project:
 - Speed and distance calculation per player
 
 ## Trained Models
-- [Trained Yolo v8]
+- [Trained Yolo v8] (https://drive.google.com/file/d/1XkAaBEXvrr2mIg3o4nmm3vXLQGIpTKQt/view?usp=sharing)
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
@@ -25,3 +25,5 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+## Dataset
+Data(https://drive.google.com/drive/folders/1cVrgNPiLL_-n5FWLFNJjXGmiX0j-H3X5?usp=sharing)
